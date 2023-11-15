@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Foo Ming Kuang currently a Computer Science(Software Engineering) Student at Universiti Teknologi Malaysia (UTM)
 <!--
 **mkuangdotcom/mkuangdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
