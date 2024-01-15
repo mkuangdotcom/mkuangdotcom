@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ming Kuang</h1>
-<h3 align="center">A passionate student from Universiti Teknologi Malaysia studying on Software Engineering.</h3>
+<h3 align="center">A passionate student from Universiti Teknologi Malaysia studying on Computer Science (Software Engineering).</h3>
 
 - 📫 How to reach me **mkfoo123@gmail.com**
 
