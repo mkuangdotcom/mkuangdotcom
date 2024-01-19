@@ -25,6 +25,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
   </a>
 </p>
+</p>
+</p>
 
 <h3 align="left">Education:</h3>
 <p align="left">
