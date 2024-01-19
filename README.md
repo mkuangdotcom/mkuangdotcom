@@ -36,6 +36,13 @@
 </p>
 <p align="left">
   <strong>SMJK CHUNG HWA CONFUCIAN</strong><br>
+  STPM, Science Stream<br>
+  Jul 2020 - Feb 2023<br>
+  Grade: 3.42/4.00<br>
+  Activities and societies: Kangaroo Maths Competition 2022 - Honourable Mention
+</p>
+<p align="left">
+  <strong>SMJK CHUNG HWA CONFUCIAN</strong><br>
   High School Education, Pure Science<br>
   2015 - 2020<br>
   Activities and societies: SASMO 2018 - Silver Team Award<br>
