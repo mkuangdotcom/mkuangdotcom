@@ -25,3 +25,26 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Education:</h3>
+<p align="left">
+  <strong>Universiti Teknologi Malaysia</strong><br>
+  Bachelor of Computer Science, Computer Software Engineering<br>
+  Jul 2020 - Feb 2023<br>
+  Grade: 3.42/4.00<br>
+  Activities and societies: Kangaroo Maths Competition 2022 - Honourable Mention
+</p>
+<p align="left">
+  <strong>SMJK CHUNG HWA CONFUCIAN</strong><br>
+  High School Education, Pure Science<br>
+  2015 - 2020<br>
+  Activities and societies: SASMO 2018 - Silver Team Award<br>
+  Board of Prefects - Head Prefect<br>
+  Anti Corruption Club - President<br>
+  Photography Club - Vice President
+</p>
+
+<h3 align="left">Skills:</h3>
+<p align="left">
+  Team Building · Management · Leadership
+</p>
