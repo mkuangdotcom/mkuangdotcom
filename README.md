@@ -57,6 +57,8 @@
 <p align="left">
   Team Building · Management · Leadership
 </p>
+<br>
+<hr>
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuangdotcom&show_icons=true&locale=en&layout=compact" alt="mkuangdotcom" />
