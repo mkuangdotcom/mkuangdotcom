@@ -32,7 +32,7 @@
 <p align="left">
   <strong>Universiti Teknologi Malaysia</strong><br>
   Bachelor of Computer Science, Computer Software Engineering<br>
-  Jul 2020 - Feb 2023<br>
+  Oct 2023 - Present<br>
   Grade: 3.42/4.00<br>
   Activities and societies: Kangaroo Maths Competition 2022 - Honourable Mention
 </p>
