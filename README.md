@@ -30,7 +30,7 @@
 <h3 align="left">🎓 Education:</h3> 
 <hr>
 <p align="left">
-  <strong>Universiti Teknologi Malaysia</strong><br>
+  <strong>UNIVERSITI TEKNOLOGI MALAYSIA</strong><br>
   Bachelor of Computer Science, Computer Software Engineering<br>
   Oct 2023 - Present<br>
 </p>
