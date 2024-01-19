@@ -27,7 +27,8 @@
 </p>
 <br>
 <br>
-<h3 align="left">🎓 Education:</h3>
+<h3 align="left">🎓 Education:</h3> 
+<hr>
 <p align="left">
   <strong>Universiti Teknologi Malaysia</strong><br>
   Bachelor of Computer Science, Computer Software Engineering<br>
