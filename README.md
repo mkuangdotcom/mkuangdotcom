@@ -45,7 +45,8 @@
   <strong>SMJK CHUNG HWA CONFUCIAN</strong><br>
   High School Education, Pure Science<br>
   2015 - 2020<br>
-  Activities and societies: SASMO 2018 - Silver Team Award<br>
+  Activities and societies: <br>
+  SASMO 2018 - Silver Team Award<br>
   Board of Prefects - Head Prefect<br>
   Anti Corruption Club - President<br>
   Photography Club - Vice President
