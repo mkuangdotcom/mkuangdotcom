@@ -39,7 +39,8 @@
   STPM, Science Stream<br>
   Jul 2020 - Feb 2023<br>
   Grade: 3.42/4.00<br>
-  Activities and societies: Kangaroo Maths Competition 2022 - Honourable Mention
+  Activities and societies:<br>
+  Kangaroo Maths Competition 2022 - Honourable Mention
 </p>
 <p align="left">
   <strong>SMJK CHUNG HWA CONFUCIAN</strong><br>
