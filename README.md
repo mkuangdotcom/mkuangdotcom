@@ -31,7 +31,7 @@
 <hr>
 <p align="left">
   <strong>UNIVERSITI TEKNOLOGI MALAYSIA</strong><br>
-  Bachelor of Computer Science, Computer Software Engineering<br>
+  Bachelor of Computer Science, Software Engineering<br>
   Oct 2023 - Present<br>
 </p>
 <p align="left">
