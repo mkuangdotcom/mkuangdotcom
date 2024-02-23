@@ -60,11 +60,11 @@
 <hr>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuangdotcom&show_icons=true&locale=en&layout=compact" alt="mkuangdotcom" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuangdotcom&show_icons=true&locale=en&layout=compact&theme=dark" alt="mkuangdotcom" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkuangdotcom&show_icons=true&locale=en" alt="mkuangdotcom" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkuangdotcom&show_icons=true&locale=en&theme=dark" alt="mkuangdotcom" />
 </p>
 
 <p align="center">
