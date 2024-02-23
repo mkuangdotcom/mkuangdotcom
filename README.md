@@ -68,5 +68,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkuangdotcom&" alt="mkuangdotcom" style="color: black;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkuangdotcom&theme=dark" alt="mkuangdotcom" />
 </p>
