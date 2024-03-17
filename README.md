@@ -47,7 +47,8 @@
   2015 - 2020<br>
   Activities and societies: <br>
   SASMO 2018 - Silver Team Award<br>
-  Kuiz Kimia Kebangsaan(K3M) 2020 - Highest Distinction
+  Kuiz Kimia Kebangsaan(K3M) 2020 - Highest Distinction<br> <br>
+  
   Board of Prefects - Head Prefect<br>
   Anti Corruption Club - President<br>
   Photography Club - Vice President
