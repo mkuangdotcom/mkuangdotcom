@@ -19,7 +19,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/ming-kuang-foo/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 &emsp;
 <a target="_blank" href="mailto:mk.foo123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-
+<a target="_blank" href="https://github.com/mkuangdotcom"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 
 
