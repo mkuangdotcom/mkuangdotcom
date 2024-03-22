@@ -1,6 +1,8 @@
 <h1 style="text-align:center;">Hey, Welcome! 👋</h1>
 
-<p style="text-align:center;">I'm a Software Engineering student at UTM, hoping to contribute more through my open-source projects! <img src="https://camo.githubusercontent.com/764ee1299f80fa96bf98d76c5ad4565b2900d6567f0ae55f025651f07297eabd/687474703a2f2f692e696d6775722e636f6d2f69396863564a352e676966" alt="Earth" width="20px" height="20px"></p>
+<p style="text-align:center;">I'm a Software Engineering student at UTM, hoping to contribute more through my open-source projects! <img src="https://user-images.githubusercontent.com/178003/152643411-b26f4bae-bcc1-48eb-9cdd-631149deae87.gif" alt="Spinning Earth" width="20px" height="20px"></p>
+
+
 
 
 
