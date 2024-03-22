@@ -3,7 +3,8 @@
 <p style="text-align:center;">I'm a Software Engineering student at UTM, hoping to contribute to the world through my open-source projects! <img src="https://user-images.githubusercontent.com/178003/152643411-b26f4bae-bcc1-48eb-9cdd-631149deae87.gif" alt="Spinning Earth" width="20px" height="20px"></p>
 
 <div style="text-align:center;">
-  <img src="https://github.com/mkuangdotcom/Hello_Gif/blob/main/Hello.gif" alt="Hello Gif" style="max-width:100%;">
+  <br> <!-- Line break -->
+  <img src="https://github.com/mkuangdotcom/Hello_Gif/blob/main/Hello.gif?raw=true" alt="Hello Gif" style="max-width:100%;">
 </div>
 
 
