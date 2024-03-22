@@ -37,7 +37,7 @@
 
 <br>
 
-## <img src="https://i.pinimg.com/originals/0f/5b/cd/0f5bcdbfc2d12733b6917e047456e0ce.gif" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;"> My Stats </span>
+## <img src="https://media0.giphy.com/media/byLm0IQgzjhP5KyaB4/200w.gif?cid=6c09b952fliohtkrjaxapjbti8h3nfsaesjkfrbz02di1tvq&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;"> My Stats </span>
 
 <p align="center">
   <a href="https://github.com/mkuangdotcom/">
