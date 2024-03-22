@@ -2,14 +2,15 @@
 
 <p style="text-align:center;">I'm a Software Engineering student at UTM, hoping to contribute to the world through my open-source projects! <img src="https://user-images.githubusercontent.com/178003/152643411-b26f4bae-bcc1-48eb-9cdd-631149deae87.gif" alt="Spinning Earth" width="20px" height="20px"></p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F8nljq5xDnWyjyLd5iYnAx0%2FApple-Hello-Lettering-Animation-(Community)%3Ftype%3Ddesign%26node-id%3D112-107098%26t%3D5LEGJPEUWHhIhzTS-1%26scaling%3Dmin-zoom%26page-id%3D1%253A387%26starting-point-node-id%3D112%253A107059%26mode%3Ddesign" allowfullscreen></iframe>
-
+[<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F8nljq5xDnWyjyLd5iYnAx0%2FApple-Hello-Lettering-Animation-(Community)%3Ftype%3Ddesign%26node-id%3D112-107098%26t%3D5LEGJPEUWHhIhzTS-1%26scaling%3Dmin-zoom%26page-id%3D1%253A387%26starting-point-node-id%3D112%253A107059%26mode%3Ddesign" allowfullscreen></iframe>
+](https://github.com/mkuangdotcom/Hello_Gif/raw/main/Hello.gif?raw=true)
 
 
 
 - 📫 How to reach me **mkfoo123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect
+  with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ming-kuang-foo" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
