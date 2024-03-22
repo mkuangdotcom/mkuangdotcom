@@ -22,7 +22,7 @@
 
 <br>
 
-## <img src="https://cdn.dribbble.com/users/1694526/screenshots/3610188/media/4f87c91437bd2d684d1fe7b2405e3888.gif" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Things I code with</span>
+## <img src="https://cdn.dribbble.com/users/7162/screenshots/1888419/open-uri20150119-12-2b4861" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Things I code with</span>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
