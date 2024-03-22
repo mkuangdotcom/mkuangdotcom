@@ -1,6 +1,27 @@
-<h1 style="text-align:center;">Hey, Welcome! 👋</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spinning Earth</title>
+<style>
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
 
-I'm a Software Engineering student at UTM, hoping to contribute more through my open-source projects! <span> 🌐
+  .spinning-earth {
+    display: inline-block;
+    animation: spin 10s linear infinite;
+  }
+</style>
+</head>
+<body>
+  <h1 style="text-align:center;">Hey, Welcome! 👋</h1>
+
+  <p style="text-align:center;">I'm a Software Engineering student at UTM, hoping to contribute more through my open-source projects! <span class="spinning-earth" style="display:inline-block;">🌍</span></p>
+</body>
+</html>
 
 - 📫 How to reach me **mkfoo123@gmail.com**
 
