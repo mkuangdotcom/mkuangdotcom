@@ -24,9 +24,7 @@
 <br>
 <br>
 
-
-<a target="_blank" href="https://github.com/"><img src="https://img.shields.io/badge/This%20I%20code%20with-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-
+## <img src="https://cdn.dribbble.com/users/1694526/screenshots/3610188/media/4f87c91437bd2d684d1fe7b2405e3888.gif" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Things I code with </span>
 <p align="center">
   <a href="https://github.com/mkuangdotcom/">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=mkuangdotcom&rank_icon=github&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
