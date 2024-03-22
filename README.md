@@ -1,5 +1,6 @@
 <h1 style="text-align:center;">Hey, Welcome! 👋</h1>
-<h3> I'm a Software Engineering student at UTM, hoping to contribute more through my open-source projects! 🌐</h3>
+
+I'm a Software Engineering student at UTM, hoping to contribute more through my open-source projects! 🌐
 
 - 📫 How to reach me **mkfoo123@gmail.com**
 
