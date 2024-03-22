@@ -1,8 +1,7 @@
 <h1 style="text-align:center;">Hey, Welcome! 👋</h1>
 
-<p style="text-align:center;">I'm a Software Engineering student at UTM, hoping to contribute more through my open-source projects!</p>
+<p style="text-align:center;">I'm a Software Engineering student at UTM, hoping to contribute more through my open-source projects! <img src="https://github.com/johannesuhl/globeanim/raw/main/outputs/land_shallow_topo_8192_georef.gif" alt="Globe Animation" width="20px"
 
-<p style="text-align:center;"><img src="https://github.com/johannesuhl/globeanim/raw/main/outputs/land_shallow_topo_8192_georef.gif" alt="Globe Animation" width="100px" height="100px"></p>
 
 
 - 📫 How to reach me **mkfoo123@gmail.com**
