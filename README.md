@@ -14,8 +14,7 @@
 <br>
 <br>
 
-<img src="https://media.licdn.com/dms/image/C4E12AQGRA-eNX5JLVQ/article-inline_image-shrink_400_744/0/1612969071569?e=1716422400&v=beta&t=ZpXXIxfJ3iwPg-WpOYAU9OFyhXPj5d_OqO56yTrvgyE" alt="Social" width="20px" height="20px"> Social
-
+## <img src="https://media.licdn.com/dms/image/C4E12AQGRA-eNX5JLVQ/article-inline_image-shrink_400_744/0/1612969071569?e=1716422400&v=beta&t=ZpXXIxfJ3iwPg-WpOYAU9OFyhXPj5d_OqO56yTrvgyE" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Social</span>
 <p align="center">
   <a href="https://github.com/mkuangdotcom/">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=mkuangdotcom&rank_icon=github&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
