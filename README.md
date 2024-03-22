@@ -35,6 +35,7 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 <br>
+
 ## <img src="https://dribbble.com/shots/1888419-Animated-Graph/attachments/1888419-Animated-Graph?mode=media" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;"> My Stats </span>
 
 <p align="center">
