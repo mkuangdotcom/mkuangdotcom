@@ -12,7 +12,6 @@
 - [Face Recgonition Attendance Sytem](https://github.com/mkuangdotcom/FaceRecgonition-Attendance_Sytem): Automatically identifies individuals based on their facial features.
 <br>
 <br>
-<br>
 
 ## <img src="https://media.licdn.com/dms/image/C4E12AQGRA-eNX5JLVQ/article-inline_image-shrink_400_744/0/1612969071569?e=1716422400&v=beta&t=ZpXXIxfJ3iwPg-WpOYAU9OFyhXPj5d_OqO56yTrvgyE" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Social</span>
 
@@ -24,9 +23,9 @@
 
 <br>
 <br>
-<br>
 
 
+<a target="_blank" href="https://github.com/"><img src="https://img.shields.io/badge/This%20I%20code%20with-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <p align="center">
   <a href="https://github.com/mkuangdotcom/">
