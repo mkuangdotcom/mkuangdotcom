@@ -5,6 +5,7 @@
 <p style="text-align:center;"</p> <!-- Line break -->
 
 <p align="center"><img src="https://github.com/mkuangdotcom/Hello_Gif/raw/main/Hello.gif?raw=true" alt="Hello Gif" style="width:100%;"></p>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
