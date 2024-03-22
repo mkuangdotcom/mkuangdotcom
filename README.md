@@ -22,7 +22,7 @@
 
 <br>
 
-## <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fbrain-workout&psig=AOvVaw0RWTjjZ3BMtYtMNPc6AfEJ&ust=1711199963941000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICf7-H6h4UDFQAAAAAdAAAAABAi" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Things I code with</span>
+## <img src="<iframe src="https://giphy.com/embed/oNRluiVoSyIF1VCAEP" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nerdbugs-nerd-think-brain-oNRluiVoSyIF1VCAEP">via GIPHY</a></p>" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Things I code with</span>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
