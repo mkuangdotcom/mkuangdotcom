@@ -25,7 +25,7 @@
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY1aXR4aWxuYW03ZzIxZWFlbnhtN3p1anFrbHBqeHlhc252cGt5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNRluiVoSyIF1VCAEP/giphy.gif" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;"> My Tools </span>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
