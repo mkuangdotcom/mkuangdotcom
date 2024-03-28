@@ -4,9 +4,8 @@
 
 <p style="text-align:center;"</p> <!-- Line break -->
 
-<div style="overflow: hidden; width: 100%; max-width: 800px;">
-  <img src="https://github.com/mkuangdotcom/mkuangdotcom/assets/150900178/e4f4ab55-2be5-471f-9288-e235820a7cc2" style="width: 100%; margin-top: -10%;">
-</div>
+![Hello](https://github.com/mkuangdotcom/mkuangdotcom/assets/150900178/f26f438b-f214-4db0-b7df-69c8e165efea)
+
 
 <br>
 
