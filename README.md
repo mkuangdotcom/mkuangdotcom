@@ -4,7 +4,10 @@
 
 <p style="text-align:center;"</p> <!-- Line break -->
 
-![Hello](https://github.com/mkuangdotcom/mkuangdotcom/assets/150900178/f26f438b-f214-4db0-b7df-69c8e165efea)
+<div style="text-align:center;">
+  <img src="https://github.com/mkuangdotcom/mkuangdotcom/assets/150900178/f26f438b-f214-4db0-b7df-69c8e165efea" alt="Hello">
+</div>
+
 
 
 <br>
