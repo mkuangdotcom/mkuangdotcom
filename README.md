@@ -4,10 +4,7 @@
 
 <p style="text-align:center;"</p> 
 
-<center>
-  <img src="https://github.com/mkuangdotcom/mkuangdotcom/assets/150900178/f26f438b-f214-4db0-b7df-69c8e165efea" alt="Hello">
-</center>
-
+<p align="center"><img src="https://github.com/mkuangdotcom/mkuangdotcom/blob/main/Hello.gif" style="width:100%;"></p>
 <br>
 
 ## <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Projects</span> 
