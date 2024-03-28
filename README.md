@@ -4,11 +4,11 @@
 
 <p style="text-align:center;"</p> <!-- Line break -->
 
+![4e01f376-20d5-4496-83d6-28fbe7323c04](https://github.com/mkuangdotcom/mkuangdotcom/assets/150900178/e4f4ab55-2be5-471f-9288-e235820a7cc2)
 <p align="center"><img src="https://github.com/mkuangdotcom/mkuangdotcom/blob/main/Hello.gif" style="width:100%;"></p>
 <br>
 
-![4e01f376-20d5-4496-83d6-28fbe7323c04](https://github.com/mkuangdotcom/mkuangdotcom/assets/150900178/e4f4ab55-2be5-471f-9288-e235820a7cc2)
-<!-- -->## <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Projects</span> 
+## <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Projects</span> 
 
 - [Face Recgonition Attendance Sytem](https://github.com/mkuangdotcom/FaceRecgonition-Attendance_Sytem):&nbsp;Automatically identifies individuals based on their facial features.
 <br>
