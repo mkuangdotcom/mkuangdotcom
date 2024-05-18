@@ -9,7 +9,7 @@
 ## <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Projects</span> 
 
 - [Face Recgonition Attendance Sytem](https://github.com/mkuangdotcom/FaceRecgonition-Attendance_Sytem):&nbsp;Automatically identifies individuals based on their facial features.
-- [Dream_Catcher](https://github.com/mkuangdotcom/Dream_Catcher):&nbsp;Sleep analyzer by tracking the head movements using camera detetction.
+- [Dream Catcher](https://github.com/mkuangdotcom/Dream_Catcher):&nbsp;Sleep analyzer by tracking the head movements using camera detetction.
 <br>
 
 ## <img src="https://media.licdn.com/dms/image/C4E12AQGRA-eNX5JLVQ/article-inline_image-shrink_400_744/0/1612969071569?e=1716422400&v=beta&t=ZpXXIxfJ3iwPg-WpOYAU9OFyhXPj5d_OqO56yTrvgyE" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Social</span>
