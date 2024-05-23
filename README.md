@@ -12,7 +12,7 @@
 - [Dream Catcher](https://github.com/mkuangdotcom/Dream_Catcher):&nbsp;Sleep analyzer by tracking the head movements using camera detetction.
 <br>
 
-## <img src="https://media.licdn.com/dms/image/C4E12AQGRA-eNX5JLVQ/article-inline_image-shrink_400_744/0/1612969071569?e=1716422400&v=beta&t=ZpXXIxfJ3iwPg-WpOYAU9OFyhXPj5d_OqO56yTrvgyE" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"/> <span style="vertical-align: top;">Social</span>
+## <img src="https://media.licdn.com/dms/image/C4E12AQGRA-eNX5JLVQ/article-inline_image-shrink_400_744/0/1612969071569?e=1716422400&v=beta&t=ZpXXIxfJ3iwPg-WpOYAU9OFyhXPj5d_OqO56yTrvgyE" alt="BunnyStudyRead" width="20px" height="20px" style="vertical-align: middle;"> <span style="vertical-align: top;">Social</span>
 
 <a target="_blank" href="https://www.linkedin.com/in/ming-kuang-foo/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 &emsp;
