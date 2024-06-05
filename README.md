@@ -10,6 +10,7 @@
 
 - [Face Recgonition Attendance Sytem](https://github.com/mkuangdotcom/FaceRecgonition-Attendance_Sytem):&nbsp;Automatically identifies individuals based on their facial features.
 - [Dream Catcher](https://github.com/mkuangdotcom/Dream_Catcher):&nbsp;Sleep analyzer by tracking the head movements using camera detetction.
+- [Weatherly](https://github.com/mkuangdotcom/Weatherly)
 
 <br>
 
