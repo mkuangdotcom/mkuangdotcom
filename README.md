@@ -11,7 +11,8 @@
 - [Face Recgonition Attendance Sytem](https://github.com/mkuangdotcom/FaceRecgonition-Attendance_Sytem):&nbsp;Automatically identifies individuals based on their facial features.
 - [Dream Catcher](https://github.com/mkuangdotcom/Dream_Catcher):&nbsp;Sleep analyzer by tracking the head movements using camera detetction.
 - [Weatherly](https://github.com/mkuangdotcom/Weatherly):&nbsp;React Native Simple Weather App with API integration.
-
+- [Fraud Detection Model](https://github.com/mkuangdotcom/Fraud_Detection):&nbsp;A neural network model for identifying fraudulent transactions with precision.
+- 
 <br>
 
 ## <img src="https://media.giphy.com/media/5UtdtSHWnhjfG5Sz8N/giphy.gif" width="20px" height="20px" style="vertical-align: middle;"> <span style="vertical-align: top;"> Social </span>
