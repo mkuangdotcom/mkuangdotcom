@@ -12,7 +12,7 @@
 - [Fraud Detection Model](https://github.com/mkuangdotcom/Fraud_Detection):&nbsp;A neural network model for identifying fraudulent transactions with precision.
 - [Dream Catcher](https://github.com/mkuangdotcom/Dream_Catcher):&nbsp;Sleep analyzer by tracking the head movements using camera detetction.
 - [Weatherly](https://github.com/mkuangdotcom/Weatherly):&nbsp;React Native Simple Weather App with API integration.
-- [easyPKU](https://github.com/NickolasChen04/easyPKU):&nbsp;A Flutter app for scheduling medical appointments and managing payments.
+- [easyPKU](https://github.com/mkuangdotcom/easyPKU):&nbsp;A Flutter app for scheduling medical appointments and managing payments.
   
 <br>
 
