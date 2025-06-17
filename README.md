@@ -14,7 +14,6 @@
 - [Weatherly](https://github.com/mkuangdotcom/Weatherly):&nbsp;React Native Simple Weather App with API integration.
 - [EasyPKU](https://github.com/mkuangdotcom/easyPKU):&nbsp;A Flutter app for scheduling medical appointments and managing payments.
 - [CropMaster](https://github.com/NickolasChen04/cropmaster):&nbsp;Satellite-powered farm intelligence that revolutionizes crop yields through AI.
-- [MEX Assistant](https://github.com/lingyuqian0301/LLF):&nbsp;A React & Django platform delivering merchant business insights via an AI assistant.
   
 <br>
 
