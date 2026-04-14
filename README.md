@@ -4,7 +4,7 @@
 
 I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I build intelligent, scalable systems from RAG pipelines and LLM agents to full-stack web and mobile apps.
 
-- 🎓 **B.Sc. Software Engineering (Honours)** @ UTM | CGPA **3.98/4.0** | Dean's List every semester
+- 🎓 **B.Sc. Computer Science (Software Engineering) with Honours** @ UTM | CGPA **3.98/4.0** | Dean's List every semester
 - 🌏 Spring Exchange @ **University of Technology Sydney**, Australia (2025)
 - 🤖 **Head of Department ML/AI** @ [Google Developer Groups on Campus UTM](https://gdg.community.dev/gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia/)
 - 👨🏼‍💻 **3× intern** — AI/ML Engineering · Data Engineering · Data Science
