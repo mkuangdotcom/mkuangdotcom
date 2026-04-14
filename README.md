@@ -15,7 +15,7 @@ I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I bu
 
 - [**Dec 2025 – Mar 2026**](https://www.keysight.com/): AI/ML Engineer Intern @ **Keysight Technologies**
   - FastAPI + LangChain ReAct Agent + Azure OpenAI GPT-4 · RAG pipeline · LangGraph workflows
-- [**Apr 2025 – Jun 2025**]: Data Engineer Intern @ **Undisclosed Hedge Fund**, Singapore
+- [**Apr 2025 – Jun 2025**](https://www.linkedin.com/company/undisclosed-hedge-fund/): Data Engineer Intern @ **Undisclosed Hedge Fund**, Singapore
   - ETL pipelines · PostgreSQL · gRPC · web crawlers · Docker
 - [**Jul 2024 – Oct 2024**](https://moneymatch.co/): Data Science Intern @ **Money Match**
   - Fraud detection ML (AUC-ROC 0.9) · Churn analysis · Reported to Bank Negara Malaysia
