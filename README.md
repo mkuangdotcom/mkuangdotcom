@@ -2,31 +2,30 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&width=750&lines=Hi%2C+I'm+Ming+Kuang+%F0%9F%91%8B%F0%9F%8F%BB;AI+%2F+ML+%26+Software+Engineer;CGPA+3.98%2F4.0+%7C+Dean's+List+Every+Semester+%F0%9F%8F%86;Seeking+Internship+%E2%80%A2+Aug+2026+%E2%80%93+Feb+2027" alt="Typing SVG" />
 </p>
 
-I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I build intelligent, scalable systems — from RAG pipelines and LLM agents to full-stack web and mobile apps.
+I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I build intelligent, scalable systems from RAG pipelines and LLM agents to full-stack web and mobile apps.
 
 - 🎓 **B.Sc. Software Engineering (Honours)** @ UTM | CGPA **3.98/4.0** | Dean's List every semester
 - 🌏 Spring Exchange @ **University of Technology Sydney**, Australia (2025)
 - 🤖 **Head of Department ML/AI** @ [Google Developer Groups on Campus UTM](https://gdg.community.dev/gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia/)
-- 💼 **3× intern** — AI/ML Engineering · Data Engineering · Data Science
+- 👨🏼‍💻 **3× intern** — AI/ML Engineering · Data Engineering · Data Science
 - 📅 Seeking internship: **Aug 2026 – Feb 2027**
 - 💬 English · Mandarin · Malay · Hokkien
-- 💜 Python · FastAPI · LangChain · React.js
 
-## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
+## <span style="display: inline-block; width: 20px; height: 20px; line-height: 20px; text-align: center; vertical-align: middle; font-size: 16px;">👨🏼‍💻</span> Work Experience
 
 - [**Dec 2025 – Mar 2026**](https://www.keysight.com/): AI/ML Engineer Intern @ **Keysight Technologies**
   - FastAPI + LangChain ReAct Agent + Azure OpenAI GPT-4 · RAG pipeline · LangGraph workflows
 - [**Apr 2025 – Jun 2025**]: Data Engineer Intern @ **Undisclosed Hedge Fund**, Singapore
   - ETL pipelines · PostgreSQL · gRPC · web crawlers · Docker
-- [**Jul 2024 – Oct 2024**](https://www.moneymatch.co/): Data Science Intern @ **Money Match**
+- [**Jul 2024 – Oct 2024**](https://moneymatch.co/): Data Science Intern @ **Money Match**
   - Fraud detection ML (AUC-ROC 0.9) · Churn analysis · Reported to Bank Negara Malaysia
 
-## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="study" width="20px" height="20px"/> Education
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.png" alt="study" width="20px" height="20px"/> Education
 
-- [**Oct 2023 – Aug 2027**](https://www.utm.my/): B.Sc. Software Engineering (Honours) @ **Universiti Teknologi Malaysia**
+- [**Oct 2023 – Aug 2027**](https://www.utm.my/): B.Sc. Computer Science (Software Engineering) with Honours @ **Universiti Teknologi Malaysia**
 - [**Jul 2025 – Nov 2025**](https://www.uts.edu.au/): Spring Exchange @ **University of Technology Sydney**
 
-## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="projects" width="20px" height="20px"/> Projects
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.png" alt="projects" width="20px" height="20px"/> Projects
 
 **Artificial Intelligence & Machine Learning**
 
@@ -45,7 +44,7 @@ I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I bu
 - [mkuangdotcom/Weatherly](https://github.com/mkuangdotcom/Weatherly): _React Native weather app with real-time API integration_
 - [NickolasChen04/cropmaster](https://github.com/NickolasChen04/cropmaster): _Satellite-powered farm intelligence — AI-driven crop yield optimization_
 
-## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="tools" width="20px" height="20px"/> Things I Code With
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f527/512.png" alt="tools" width="20px" height="20px"/> Things I Code With
 
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -74,18 +73,7 @@ I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I bu
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-## <img src="https://media1.giphy.com/media/QpyF0jsO26GWKTWctv/200w.gif" alt="stats" width="20px" height="20px"/> GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mkuangdotcom/">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=mkuangdotcom&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=9f9f9f&bg_color=0d1117&hide_border=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/mkuangdotcom/">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuangdotcom&layout=donut&langs_count=8&title_color=58A6FF&icon_color=58A6FF&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
-  </a>
-</p>
-
-## <img src="https://user-images.githubusercontent.com/59118459/193049628-b56bba85-b2da-4d04-8bd1-7f79ea015feb.gif" alt="social" width="20px" height="20px"/> Connect with Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e9/512.png" alt="social" width="20px" height="20px"/> Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-Ming_Kuang_Foo-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ming-kuang-foo)
 [![Email](https://img.shields.io/badge/-mk.foo123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mk.foo123@gmail.com)
