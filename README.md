@@ -39,7 +39,7 @@ I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I bu
 
 - [KIRAK26/FitTrackPro](https://github.com/KIRAK26/FitTrackPro): _Fitness and nutrition tracking platform built with ASP.NET Core Razor Pages, Entity Framework Core and LINQ_
 - [mkuangdotcom/Hotel_Project](https://github.com/mkuangdotcom/Hotel_Project): _Hotel management system with admin and user dashboards for booking and operations management, built with PHP and MySQL_
-- [mkuangdotcom/MedCare](https://github.com/mkuangdotcom/MedCare): _Hospital management console application built with C# and .NET_
+- [mkuangdotcom/MedCare](https://github.com/mkuangdotcom/MedCare): _Console-based hospital management system in C# .NET 8 with role-based access for patients, doctors, admins and receptionists, including appointment scheduling and email notifications_
 
 **Mobile**
 
