@@ -29,20 +29,24 @@ I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I bu
 
 **Artificial Intelligence & Machine Learning**
 
-- [mkuangdotcom/Fraud_Detection](https://github.com/mkuangdotcom/Fraud_Detection): _Neural network fraud detection with SMOTE balancing & Keras — 93% accuracy on imbalanced dataset_
-- [mkuangdotcom/Music_Recommendation_System](https://github.com/mkuangdotcom/Music_Recommendation_System): _ALS collaborative filtering on 17.5M user-artist interactions — 4.8× accuracy vs baseline_
-- [mkuangdotcom/Dream_Catcher](https://github.com/mkuangdotcom/Dream_Catcher): _Sleep movement analyzer using OpenCV & MediaPipe for real-time head tracking_
-- [mkuangdotcom/AttendEase](https://github.com/mkuangdotcom/AttendEase): _Automatic facial recognition-based attendance system_
+- [mkuangdotcom/DualComm](https://github.com/mkuangdotcom/DualComm): _Multilingual AI advocacy platform for migrant workers, supporting native dialects via WhatsApp and Telegram using RAG and speech-to-text_
+- [mkuangdotcom/Fraud_Detection](https://github.com/mkuangdotcom/Fraud_Detection): _Neural network fraud detection model using SMOTE oversampling and Keras, achieving 93% accuracy on a highly imbalanced dataset_
+- [mkuangdotcom/Music_Recommendation_System](https://github.com/mkuangdotcom/Music_Recommendation_System): _Music recommender using ALS collaborative filtering on 17.5M user-artist interactions, achieving 4.8x accuracy improvement over the popularity baseline_
+- [mkuangdotcom/Dream_Catcher](https://github.com/mkuangdotcom/Dream_Catcher): _Sleep movement analyzer that tracks real-time head movements using OpenCV and MediaPipe_
+- [mkuangdotcom/AttendEase](https://github.com/mkuangdotcom/AttendEase): _Automated attendance system using facial recognition and computer vision_
 
 **Full Stack Web**
 
-- [mkuangdotcom/FitTrackPro](https://github.com/mkuangdotcom/FitTrackPro): _All-in-one fitness & nutrition platform — ASP.NET Core Razor Pages + Entity Framework Core_
+- [KIRAK26/FitTrackPro](https://github.com/KIRAK26/FitTrackPro): _Fitness and nutrition tracking platform built with ASP.NET Core Razor Pages, Entity Framework Core and LINQ_
+- [mkuangdotcom/Hotel_Project](https://github.com/mkuangdotcom/Hotel_Project): _Hotel management system with admin and user dashboards for booking and operations management, built with PHP and MySQL_
+- [mkuangdotcom/MedCare](https://github.com/mkuangdotcom/MedCare): _Hospital management console application built with C# and .NET_
 
 **Mobile**
 
-- [mkuangdotcom/easyPKU](https://github.com/mkuangdotcom/easyPKU): _Flutter medical appointment booking app with Firebase backend & integrated payment system_
-- [mkuangdotcom/Weatherly](https://github.com/mkuangdotcom/Weatherly): _React Native weather app with real-time API integration_
-- [NickolasChen04/cropmaster](https://github.com/NickolasChen04/cropmaster): _Satellite-powered farm intelligence — AI-driven crop yield optimization_
+- [mkuangdotcom/easyPKU](https://github.com/mkuangdotcom/easyPKU): _Medical appointment booking app built with Flutter and Firebase, featuring an integrated payment system_
+- [mkuangdotcom/AgriTrack](https://github.com/mkuangdotcom/AgriTrack): _Cross-platform farm management app built with Flutter and Dart_
+- [mkuangdotcom/Weatherly](https://github.com/mkuangdotcom/Weatherly): _React Native weather app with real-time weather API integration_
+- [NickolasChen04/cropmaster](https://github.com/NickolasChen04/cropmaster): _Farm intelligence platform using satellite data and AI for crop yield optimization_
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f527/512.png" alt="tools" width="20px" height="20px"/> Things I Code With
 
