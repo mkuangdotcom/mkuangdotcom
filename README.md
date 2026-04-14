@@ -43,6 +43,7 @@ I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I bu
 
 **Mobile**
 
+- [tzee27/EduAlly](https://github.com/tzee27/EduAlly): _Flutter mobile app providing personalized support for students and teachers, with AI chatbot assistance and CCTV-based classroom analysis_
 - [mkuangdotcom/easyPKU](https://github.com/mkuangdotcom/easyPKU): _Medical appointment booking app built with Flutter and Firebase, featuring an integrated payment system_
 - [mkuangdotcom/AgriTrack](https://github.com/mkuangdotcom/AgriTrack): _Cross-platform farm management app built with Flutter and Dart_
 - [mkuangdotcom/Weatherly](https://github.com/mkuangdotcom/Weatherly): _React Native weather app with real-time weather API integration_
