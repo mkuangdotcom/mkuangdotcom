@@ -10,9 +10,11 @@ I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I bu
 - English · Mandarin · Malay · Hokkien
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mkuangdotcom&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Ming Kuang's GitHub stats" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkuangdotcom&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkuangdotcom/mkuangdotcom/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkuangdotcom/mkuangdotcom/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/mkuangdotcom/mkuangdotcom/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.png" alt="work" width="20px" height="20px"/> Work Experience
@@ -40,28 +42,28 @@ I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I bu
 
 **Artificial Intelligence & Machine Learning**
 
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/DualComm](https://github.com/mkuangdotcom/DualComm): _Multilingual AI advocacy platform for migrant workers, supporting native dialects via WhatsApp and Telegram using RAG and speech-to-text_
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/Fraud_Detection](https://github.com/mkuangdotcom/Fraud_Detection): _Neural network fraud detection model using SMOTE oversampling and Keras, achieving 93% accuracy on a highly imbalanced dataset_
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/Music_Recommendation_System](https://github.com/mkuangdotcom/Music_Recommendation_System): _Music recommender using ALS collaborative filtering on 17.5M user-artist interactions, achieving 4.8x accuracy improvement over the popularity baseline_
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/Dream_Catcher](https://github.com/mkuangdotcom/Dream_Catcher): _Sleep movement analyzer that tracks real-time head movements using OpenCV and MediaPipe_
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/AttendEase](https://github.com/mkuangdotcom/AttendEase): _Automated attendance system using facial recognition and computer vision_
+- [mkuangdotcom/DualComm](https://github.com/mkuangdotcom/DualComm): _Multilingual AI advocacy platform for migrant workers, supporting native dialects via WhatsApp and Telegram using RAG and speech-to-text_
+- [mkuangdotcom/Fraud_Detection](https://github.com/mkuangdotcom/Fraud_Detection): _Neural network fraud detection model using SMOTE oversampling and Keras, achieving 93% accuracy on a highly imbalanced dataset_
+- [mkuangdotcom/Music_Recommendation_System](https://github.com/mkuangdotcom/Music_Recommendation_System): _Music recommender using ALS collaborative filtering on 17.5M user-artist interactions, achieving 4.8x accuracy improvement over the popularity baseline_
+- [mkuangdotcom/Dream_Catcher](https://github.com/mkuangdotcom/Dream_Catcher): _Sleep movement analyzer that tracks real-time head movements using OpenCV and MediaPipe_
+- [mkuangdotcom/AttendEase](https://github.com/mkuangdotcom/AttendEase): _Automated attendance system using facial recognition and computer vision_
 
 **Full Stack Web**
 
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/CargoMind](https://github.com/mkuangdotcom/CargoMind): _AI-assisted incident workbench for logistics support: React + Vite frontend, Express + PostgreSQL backend with Gemini-powered triage and UiPath RPA intake automation_
-- [<img src="https://github.com/KIRAK26.png" width="20" height="20" />](https://github.com/KIRAK26) [KIRAK26/FitTrackPro](https://github.com/KIRAK26/FitTrackPro): _Fitness and nutrition tracking platform built with ASP.NET Core Razor Pages, Entity Framework Core and LINQ_
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/Hotel_Project](https://github.com/mkuangdotcom/Hotel_Project): _Hotel management system with admin and user dashboards for booking and operations management, built with PHP and MySQL_
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/MedCare](https://github.com/mkuangdotcom/MedCare): _Console-based hospital management system in C# .NET 8 with role-based access for patients, doctors, admins and receptionists, including appointment scheduling and email notifications_
+- [mkuangdotcom/CargoMind](https://github.com/mkuangdotcom/CargoMind): _AI-assisted incident workbench for logistics support: React + Vite frontend, Express + PostgreSQL backend with Gemini-powered triage and UiPath RPA intake automation_
+- [KIRAK26/FitTrackPro](https://github.com/KIRAK26/FitTrackPro): _Fitness and nutrition tracking platform built with ASP.NET Core Razor Pages, Entity Framework Core and LINQ_
+- [mkuangdotcom/Hotel_Project](https://github.com/mkuangdotcom/Hotel_Project): _Hotel management system with admin and user dashboards for booking and operations management, built with PHP and MySQL_
+- [mkuangdotcom/MedCare](https://github.com/mkuangdotcom/MedCare): _Console-based hospital management system in C# .NET 8 with role-based access for patients, doctors, admins and receptionists, including appointment scheduling and email notifications_
 
 **Mobile**
 
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/TahanLah](https://github.com/mkuangdotcom/TahanLah): _GXBank companion app (React Native / Expo) that nudges Malaysian youth away from impulse spending with a camera-based "GX Lens", gamified savings jars, and Gemini-powered roasts_
-- [<img src="https://github.com/Owwwwyh.png" width="20" height="20" />](https://github.com/Owwwwyh) [Owwwwyh/FinHack-Touch-Code](https://github.com/Owwwwyh/FinHack-Touch-Code): _AnyPay: offline peer-to-peer NFC payment system built with Flutter and Android HCE, with an on-device ML model that predicts a safe offline spending limit_
-- [<img src="https://github.com/tzee27.png" width="20" height="20" />](https://github.com/tzee27) [tzee27/EduAlly](https://github.com/tzee27/EduAlly): _Flutter mobile app providing personalized support for students and teachers, with AI chatbot assistance and CCTV-based classroom analysis_
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/easyPKU](https://github.com/mkuangdotcom/easyPKU): _Medical appointment booking app built with Flutter and Firebase, featuring an integrated payment system_
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/AgriTrack](https://github.com/mkuangdotcom/AgriTrack): _Cross-platform farm management app built with Flutter and Dart_
-- [<img src="https://github.com/mkuangdotcom.png" width="20" height="20" />](https://github.com/mkuangdotcom) [mkuangdotcom/Weatherly](https://github.com/mkuangdotcom/Weatherly): _React Native weather app with real-time weather API integration_
-- [<img src="https://github.com/NickolasChen04.png" width="20" height="20" />](https://github.com/NickolasChen04) [NickolasChen04/cropmaster](https://github.com/NickolasChen04/cropmaster): _Farm intelligence platform using satellite data and AI for crop yield optimization_
+- [mkuangdotcom/TahanLah](https://github.com/mkuangdotcom/TahanLah): _GXBank companion app (React Native / Expo) that nudges Malaysian youth away from impulse spending with a camera-based "GX Lens", gamified savings jars, and Gemini-powered roasts_
+- [Owwwwyh/FinHack-Touch-Code](https://github.com/Owwwwyh/FinHack-Touch-Code): _AnyPay: offline peer-to-peer NFC payment system built with Flutter and Android HCE, with an on-device ML model that predicts a safe offline spending limit_
+- [tzee27/EduAlly](https://github.com/tzee27/EduAlly): _Flutter mobile app providing personalized support for students and teachers, with AI chatbot assistance and CCTV-based classroom analysis_
+- [mkuangdotcom/easyPKU](https://github.com/mkuangdotcom/easyPKU): _Medical appointment booking app built with Flutter and Firebase, featuring an integrated payment system_
+- [mkuangdotcom/AgriTrack](https://github.com/mkuangdotcom/AgriTrack): _Cross-platform farm management app built with Flutter and Dart_
+- [mkuangdotcom/Weatherly](https://github.com/mkuangdotcom/Weatherly): _React Native weather app with real-time weather API integration_
+- [NickolasChen04/cropmaster](https://github.com/NickolasChen04/cropmaster): _Farm intelligence platform using satellite data and AI for crop yield optimization_
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f527/512.png" alt="tools" width="20px" height="20px"/> Tech Stack
 
@@ -131,3 +133,11 @@ I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I bu
 [![LinkedIn](https://img.shields.io/badge/-Ming_Kuang_Foo-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ming-kuang-foo)
 [![Email](https://img.shields.io/badge/-mk.foo123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mk.foo123@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/mkuangdotcom?style=social&label=Follow)](https://github.com/mkuangdotcom)
+
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mkuangdotcom&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Ming Kuang's GitHub stats" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkuangdotcom&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+</p>
