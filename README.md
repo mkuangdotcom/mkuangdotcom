@@ -22,7 +22,7 @@ I am `Ming Kuang`, a Software Engineering undergraduate from UTM, Malaysia. I bu
 | Role | Company | Period |
 | :-- | :-- | :-- |
 | AI Engineer Intern | **[Grab](https://www.grab.com/)** | `Aug 2026 – Feb 2027` |
-| AI/ML Engineer Intern | **[Keysight Technologies](https://www.keysight.com/)** | `Dec 2025 – Mar 2026` |
+| AI Engineer Intern | **[Keysight Technologies](https://www.keysight.com/)** | `Dec 2025 – Mar 2026` |
 | Data Engineer Intern | **[Undisclosed Quant Hedge Fund](https://www.linkedin.com/company/undisclosed-hedge-fund/)**, Singapore | `Apr 2025 – Jun 2025` |
 | Data Science Intern | **[Money Match](https://moneymatch.co/)** | `Jul 2024 – Oct 2024` |
 
